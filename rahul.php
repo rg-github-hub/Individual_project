@@ -21,7 +21,9 @@
         }
         h1{
             color: white;
-            background-color: rgb(90, 29, 29);
+            /* background-color: rgb(90, 29, 29); */
+            background-image: linear-gradient(maroon , black);
+            
             z-index: 2;
             font-family: Ink Free,Comic Sans MS, Gabriola;
         }
@@ -31,10 +33,10 @@
             padding: 5% 10%;
 
             text-align: left;
-            border: 2px solid rgb(63, 7, 7);
+            border: 5px solid maroon;
             border-radius: 5px;
             /* box-shadow: 1px 1px 1px 1px blue;s */
-            background-color: white;
+            background-color: rgb(251,249,210);
             z-index: 999;
             font-family:  Gabriola;
         }
